@@ -16,7 +16,7 @@ He keeps going, shining bright, because that’s just who he is.
 
 ---
 
-## Story:
+## Story
 
 ### Phanto's Little Under the Weather🌈
 
@@ -44,15 +44,16 @@ And with a soft giggle, Phanto wobbled away, his glowing cheeks matching the rai
 ---
 ## Keywords
 
-Ghostly Whimsy, 🌈 Feel-Good Moments, ✨ Positivity & Motivation, 💫 Shining Bright, 🤭 Fun & Laughter,
+Phanto, Ghostly Whimsy, Feel-Good Moments, Positivity & Motivation, Shining Bright, Fun & Laughter, Rainbow Moments, Never Give Up, Stay Positive
 
 ---
 ## Emojis
-- 👻 🌈  ✨ 💫 🤭
+
+🤮 👻 🌈 ✨ 💫 🤭 ✨ 🌈 🎉 💖
 
 ---
 ## Hashtags
-#PhantoMagic #FeelGoodVibes #RainbowMoments #NeverGiveUp #ShiningBright #GhostlyGlow #StayPositive
+#Phanto #PhantoMagic #FeelGoodVibes #RainbowMoments #NeverGiveUp #ShiningBright #GhostlyGlow #StayPositive
 
 ---
 
@@ -68,3 +69,23 @@ Share your own mishap moments and tell us how you managed to shine bright, even 
 How did you get out of that troublesome moment and find your sparkle again?
 
 Drop a comment below or share with your friends who could use some sparkles today! ✨
+
+---
+
+## Poll
+
+What’s your favorite way to shine bright even on tough days? 💭
+
+- [ ] Spread positivity ✨
+- [ ] Enjoy some cookies 🍪
+- [ ] Take a moment to rest 🛌
+
+---
+
+## Fun Facts
+
+- Phanto loves eating cookies 🍪 and playing hide-and-seek! 👀
+- Phanto’s magic is so bright, it can light up a whole city! 🌆
+- Phanto believes that joy is the best medicine—especially when shared with friends! 💖
+
+---
