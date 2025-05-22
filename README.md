@@ -163,4 +163,4 @@ Of course, being a ghost, his hands went right through them! He giggled, a playf
 ---
 
 
-Are you ready?
+Wait for the text, Are you ready?
