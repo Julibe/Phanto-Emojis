@@ -1,0 +1,232 @@
+{
+	"frontMatter.framework.id": "Emojis",
+	"frontMatter.content.publicFolder": "content",
+	"frontMatter.content.pageFolders": [
+		{
+			"path": "[[workspace]]/content/",
+			"file": "index.md",
+			"fileType": "md",
+			"pageBundle": true,
+			"title": "Phanto Emojis"
+		}
+	],
+	"frontMatter.taxonomy.contentTypes": [
+		{
+			"label": "Phanto Emojis",
+			"name": "default",
+			"pageBundle": true,
+			"previewPath": "/stories/[[slug]]",
+			"fields": [
+				{
+					"title": "General",
+					"name": "general_info",
+					"description": "General information about the content.",
+					"type": "heading"
+				},
+				{
+					"title": "Title",
+					"name": "title",
+					"type": "string",
+					"description": "Provide a clear and concise title for your content.",
+					"placeholder": "Enter a captivating title here",
+					"required": true,
+					"multiline": false,
+					"single": true,
+					"unique": true,
+					"maxLength": 120
+				},
+				{
+					"title": "Slug",
+					"name": "slug",
+					"type": "slug",
+					"editable": true,
+					"default": "{{slug}}",
+					"description": "Define a URL-friendly identifier for the content.",
+					"placeholder": "auto-generated-slug",
+					"required": true,
+					"multiline": false,
+					"single": true,
+					"unique": true,
+					"slugify": true,
+					"maxLength": 120
+				},
+				{
+					"title": "Date",
+					"name": "date",
+					"type": "datetime",
+					"default": "{{now}}",
+					"description": "Specify the date when the content was created or published.",
+					"required": true,
+					"single": true,
+					"isPublishDate": true,
+					"placeholder": "YYYY-MM-DDTHH:mm:ssZ"
+				},
+				{
+					"title": "Extract",
+					"name": "description",
+					"required": true,
+					"multiline": true,
+					"type": "string",
+					"description": "Write a brief, engaging extract or summary.",
+					"placeholder": "Summarize your content in one or two sentences.",
+					"maxLength": 160
+				},
+				{
+					"title": "Description",
+					"name": "extract",
+					"type": "string",
+					"required": true,
+					"description": "Write a detailed description. Use markdown for formatting.",
+					"placeholder": "Start with a brief introduction, then elaborate...",
+					"multiline": true,
+					"wysiwyg": "markdown",
+					"maxLength": 600
+				},
+				{
+					"title": "Call to Action",
+					"name": "cta",
+					"type": "string",
+					"multiline": true,
+					"description": "Compose a compelling call to action. Use markdown for formatting.",
+					"placeholder": "Encourage users to take action (e.g., 'Share your thoughts!').",
+					"multiline": true,
+					"wysiwyg": "markdown",
+					"maxLength": 300
+				},
+				{
+					"title": "Story",
+					"name": "story",
+					"type": "markdown",
+					"required": true,
+					"description": "Write the main story of your content. Use markdown for formatting.",
+					"placeholder": "Describe the main story of your content..."
+				},
+				{
+					"title": "Published",
+					"name": "published",
+					"type": "draft",
+					"description": "Publish or draft the content."
+				},
+				{
+					"name": "divider_00",
+					"type": "divider"
+				},
+				{
+					"title": "Social",
+					"name": "social_info",
+					"description": "Social media and SEO information.",
+					"type": "heading"
+				},
+				{
+					"title": "Colors",
+					"name": "color",
+					"type": "list",
+					"description": "Enter a color code (e.g., hex) for styling purposes.",
+					"pattern": "^#([A-Fa-f0 9]{6}|[A-Fa-f0 9]{3})|rgb\\((\\d{1,3}), (\\d{1,3}), (\\d{1,3})\\)$",
+					"required": true,
+					"placeholder": "#000000"
+				},
+				{
+					"title": "Keywords",
+					"name": "keywords",
+					"type": "list",
+					"description": "Provide a list of keywords relevant to the content.",
+					"placeholder": "e.g., keyword1, keyword2, keyword3"
+				},
+				{
+					"title": "Hashtags",
+					"name": "hashtags",
+					"type": "list",
+					"description": "Provide a list of hashtags for social media or SEO.",
+					"placeholder": "e.g., #hashtag1, #hashtag2"
+				},
+				{
+					"title": "Emojis",
+					"name": "emojis",
+					"type": "list",
+					"description": "Add a list of emojis that reflect the content's tone or theme.",
+					"placeholder": "e.g., 😀, 🌟, 🎉"
+				},
+				{
+					"name": "divider_01",
+					"type": "divider"
+				},
+				{
+					"title": "Interactions",
+					"name": "interactions_info",
+					"description": "Interactions and user engagement options.",
+					"type": "heading"
+				},
+				{
+					"title": "Pool Question",
+					"name": "pool_question",
+
+					"type": "string",
+					"wysiwyg": "markdown",
+					"description": "Pose a question for your audience to engage with.",
+					"placeholder": "What do you think about this topic?"
+				},
+				{
+					"title": "Pool Options",
+					"name": "pool_options",
+					"type": "list",
+					"description": "List possible answers for the pool question.",
+					"placeholder": "e.g., Option 1, Option 2, Option 3"
+				},
+				{
+					"title": "Pool Call to Action",
+					"name": "pool_cta",
+					"type": "string",
+					"wysiwyg": "markdown",
+					"description": "Compose a compelling call to action for the pool question.",
+					"placeholder": "Share your thoughts!"
+				},
+				{
+					"title": "Fun Facts",
+					"name": "facts",
+					"type": "list",
+					"description": "Provide a list of interesting or fun facts.",
+					"placeholder": "e.g., Did you know...?"
+				},
+				{
+					"name": "divider_02",
+					"type": "divider"
+				},
+				{
+					"title": "Media",
+					"name": "media_info",
+					"description": "Media and visual elements.",
+					"type": "heading"
+				},
+
+				{
+					"title": "Widescreen Image",
+					"name": "widescreen",
+					"type": "image",
+					"description": "Upload a widescreen image to accompany the content. \nNote: The image should have a 16:9 aspect ratio (e.g., 4096 x 2304) ",
+
+					"isPreviewImage": true
+				},
+				{
+					"title": "Square Image",
+					"name": "square",
+					"type": "image",
+					"description": "Upload a square image to accompany the content. \nNote: The image should have a 1:1 aspect ratio (e.g., 2048 x 2048)."
+				},
+				{
+					"title": "Sticker Image",
+					"name": "sticker",
+					"type": "image",
+					"description": "Upload a sticker image to accompany the content. \nNote: The image should have a 1:1 aspect ratio (e.g., 256 x 256) with a transparent background."
+				},
+				{
+					"title": "Video",
+					"name": "video",
+					"type": "file",
+					"description": "Attach a video file if applicable. Supported formats: MP4. \nNote: The video should have a 16:9 aspect ratio (e.g., 1080 x 1920).",
+					"fileExtensions": ["mp4"]
+				}
+			]
+		}
+	]
+}
