@@ -13,7 +13,8 @@ extract: |
 date: 2025-05-21T21:28:50.366Z
 slug: phanto-is-looking
 published: true
-color: "#1680da"
+color:
+    - "#1680da"
 widescreen: widescreen.jpg
 square: square.jpg
 sticker: sticker.png
