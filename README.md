@@ -20,6 +20,9 @@ Here's a breakdown of the fields to include:
 
 ---
 ## General Information
+**Story (Required, Markdown, content)**
+[Write the **main story** of your content. This is where Phanto engages in playful antics, using childlike puns, jokes, and dialogue to set the tone. Use Markdown for formatting. *e.g., Describe the main story of your content...*]
+
 
 **Title (Required, Max 120 characters)**
 [Provide a **clear and concise title** for your content. *e.g., Enter a captivating title here*]
@@ -36,8 +39,6 @@ Here's a breakdown of the fields to include:
 **Extract (Required, Max 600 characters)**
 [Write a **detailed description** of the event. Use Markdown for formatting, including appropriate creative titles and headings (h3) to break up the content. *e.g., Start with a brief introduction, then elaborate...*]
 
-**Story (Required)**
-[Write the **main story** of your content. This is where Phanto engages in playful antics, using childlike puns, jokes, and dialogue to set the tone. Use Markdown for formatting. *e.g., Describe the main story of your content...*]
 
 **Call to Action (Max 300 characters)**
 [Compose a **compelling call to action**. Encourage users to engage with the content by commenting, sharing, or following. Keep it inviting and action-oriented. Use Markdown for formatting. *e.g., Share your thoughts!*]
@@ -94,47 +95,55 @@ Here's a breakdown of the fields to include:
 
 
 ## Sample
+Here is a sample of what we are looking for:
 
 ---
 title: Cookie Caper! 🍪
 slug: cookie-caper
-date: 2025-05-22T01:01:56.000Z
+date: 2020-01-01T00:00:00.000Z
 description: Phanto's on a mission to find the biggest, tastiest cookie! Follow his delicious adventure.
 extract: |
   Phanto smelled something sweet, and his little ghost nose knew it meant one thing: cookies! 🍪
   His tummy rumbled with excitement.
 
   ### The Case of the Missing Chocolate Chip
-published: true
+published: false
 color:
   - "#F0A30A"
   - more colors...
+
 keywords:
   - Phanto
   - Cookie
   - Adventure
   - more keywords...
+
 hashtags:
   - "#PhantoAdventures"
   - "#CookieLover"
   - more hashtags...
+
 emojis:
   - 🍪
   - 😋
   - ✨
   - more emojis...
+
 pool_question: |
   What's Phanto's favorite cookie flavor?
+
 pool_options:
   - Chocolate Chip
   - Oatmeal Raisin
   - Sugar Cookie
   - more options...
+
 pool_cta: "Vote now!"
 facts:
   - Phanto can smell cookies from a mile away!
   - He believes cookies are the best hiding spots for hide-and-seek.
   - more facts...
+
 cta: |
   What kind of cookie do you think Phanto found?
   Share your favorite cookie in the comments!
@@ -150,3 +159,8 @@ He floated through the living room, past the couch, and into the kitchen. The sc
 > "Victory is sweet!" Phanto cheered, his ethereal hands trying to grab one.
 
 Of course, being a ghost, his hands went right through them! He giggled, a playful hum echoing in the kitchen. He decided to try a different approach. He'd just have to *haunt* them into his tummy by gently nudging them off the plate and into his ethereal grasp, one by one. It was a delicious, if slightly clumsy, victory!
+
+---
+
+
+Are you ready?
